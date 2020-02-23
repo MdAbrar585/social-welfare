@@ -20,11 +20,15 @@ body{
 }
 .left{
     border: 1px solid;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
     height: 799px;
     margin: 10px;
 }
 .right{
     border: 1px solid;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
     height: 799px;
     margin: 10px;
 }
